@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "build.js",
   "scripts": {
-    "dev": "nodemon src/core.js",
+    "dev": "nodemon src/file.js",
     "build": "node build.js"
   },
   "dependencies": {
