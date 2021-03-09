@@ -1,5 +1,7 @@
-node_modules
-build
-firmware
-src/*
+node_modules/
+build/
+firmware/
+src/
 *.lock
+dist/
+test
