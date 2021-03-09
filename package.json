@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "build.js",
   "scripts": {
-    "dev": "nodemon src/file.js",
     "build": "tsc --build",
     "build:files": "node ./build/build.js"
   },
