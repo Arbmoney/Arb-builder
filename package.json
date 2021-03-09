@@ -4,7 +4,8 @@
   "main": "build.js",
   "scripts": {
     "dev": "nodemon src/file.js",
-    "build": "tsc --build"
+    "build": "tsc --build",
+    "build:files": "node ./build/build.js"
   },
   "devDependencies": {
     "@types/node": "^14.14.33",
